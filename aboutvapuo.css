@@ -1,0 +1,40 @@
+.profile{
+  text-align: center;
+}
+.sections{
+  float: left;
+  width: 50%;
+  background-color: antiquewhite;
+}
+.clans{
+  float: left;
+  width: 50%;
+  background-color: antiquewhite;
+}
+
+
+
+table, tr, th, td, caption {
+    border: 1px solid #eee; 
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse: collapse;
+    padding: 0.5rem;
+  }
+  .pop{
+    margin: 0 auto;
+  }
+  .op{
+    display: flex;
+    margin: auto;
+  }
+  .opp{
+    display: flex;
+    margin: auto;
+  }
+  .c4l{
+    display: flex;
+    justify-content: space-between;
+  }
+  h2{
+    text-align: center;
+  }
